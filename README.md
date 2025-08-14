@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I debug faster with coffee ☕**  
 - 📫 Reach me at **rutiknikam70@gmail.com**  
 - 👨‍💻 All my projects: [My Portfolio](http://aws-made-easy-website-portfolio.s3-website.us-east-2.amazonaws.com)  
-- 📄 My Resume: [View PDF](https://drive.google.com/file/d/14_pMs1Kz31Wz5kw2DuvkLzSjsd7sFXew/view?usp=drive_link)  
+- 📄 My Resume: [View PDF](https://drive.google.com/file/d/14_pMs1Kz31Wz5kw2DuvkLzSjsd7sFXew/view?usp=sharing)  
 
 ---
 
